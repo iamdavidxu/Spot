@@ -2,11 +2,13 @@
 
 This repository contains code for an interactive information web app, created for the _Client-Side Web Development_ course at the UW iSchool.
 
-Group Member:
-David Xu\
+Here is the link to access Spotifeel: https://spotifeel-57b89.web.app/
 
 Group Member:
-Rohan Simha\
+David Xu
+
+Group Member:
+Rohan Simha
 
 Group Member:
 Arav Manchanda
