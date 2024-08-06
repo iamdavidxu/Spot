@@ -4,14 +4,12 @@ This repository contains code for an interactive information web app, created fo
 
 Here is the link to access Spotifeel: https://spotifeel-57b89.web.app/
 
-/happy Home Page:
+Home Page: Put in songs that you like and the system will respond with a list of songs based on the emotion!
+
+Search Page: Type in your mood and receive a list of songs with matching emotions!
+
+Profile: You can create or login to your account on this page
 
 
-Group Member:
-David Xu
-
-Group Member:
-Rohan Simha
-
-Group Member:
-Arav Manchanda
+Credit:
+David Xu, Rohan Simha, Arav Manchanda
